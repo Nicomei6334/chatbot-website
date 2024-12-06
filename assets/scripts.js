@@ -32,6 +32,6 @@ function showSlides(n) {
 }
 
 function abrirChatbot() {
-    window.open('http://192.168.1.34:8501', '_blank');
+    window.open('https://chatbotverduras.streamlit.app/', '_blank');
 }
         
